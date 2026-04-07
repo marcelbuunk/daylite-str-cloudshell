@@ -1,0 +1,11 @@
+{
+  "name": "daylite-receiver",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/pubsub": "^4.7.0",
+    "express": "^4.19.2",
+    "google-auth-library": "^10.5.0"
+  }
+}
